@@ -1,17 +1,16 @@
-# Nome do projeto
+# A Conformidade de Sites de Empresas Aéreas à Lei de Proteção de Dados (LGPD)
 
 Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 
-## Alunos integrantes da equipe
+## Aluno
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
+* André Fernandez Mendes
 
 ## Professores responsáveis
 
-* Nome do orientador de conteúdo (TCCI)
-* Nome do orientador de acadêmico (TCCI)
-* Nome do orientador de TCC II
+* Cleiton Silva Tavares (TCCI)
+* Filipe Tório Lopes Ruas Nhimi (TCCI)
+* Leonardo Vilela Cardoso
 
 ## Instruções de Replicação/Reprodução
 
